@@ -1,3 +1,8 @@
+---
+layout: post
+title: "CUDA Programming on Linux"
+---
+
 # CUDA on Linux
 
 ## Environment Setting
