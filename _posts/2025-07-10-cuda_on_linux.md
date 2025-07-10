@@ -20,7 +20,7 @@ title: "CUDA Programming on Linux"
 - install nsight on visual studio code
     1. Run vscode
     2. ctrl + p
-    3. type “**cat /usr/local/cuda/include/cudnn_version.h | grep CUDNN_MAJOR -A 2” →** enter
+    3. type “cat /usr/local/cuda/include/cudnn_version.h | grep CUDNN_MAJOR -A 2” → enter
 
 ### 용어 정리
 
